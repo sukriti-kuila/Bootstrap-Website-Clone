@@ -1,2 +1,2 @@
-# Website-Clone-Bootstrap-1 Link
-sukriti-clone-1.netlify.com
+
+[Hosted Link](https://sukriti-clone-1.netlify.app/)
